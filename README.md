@@ -58,12 +58,6 @@ Researchers, AI engineers, and auditors are invited to:
 
 ---
 
-## 🔗 External Resources
-- Whitepaper: `Fusion_Vault_Master_Whitepaper.pdf`
-- Future DOI: [Zenodo submission pending]
-
----
-
 **Fusion is not fiction. Fusion is structure.**
 
 This repository is the first vault of its kind.
